@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "name": "FlashCard-Generator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:bstahler123/Flashcard-Generator.git",
+  "license": "MIT"
+}
